@@ -1,4 +1,4 @@
-# Hi there, I'm Filip Fekete 👋
+# Hi there, I'm Filip 👋
 
 I'm a **Software Engineering Student** currently in my final year at the University of Southern Denmark (SDU). I'm passionate about full-stack development, embedded systems, and using my technical skills to build intelligent, user-friendly solutions.
 
@@ -9,7 +9,7 @@ Here are some of the technologies and tools I worked with:
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | C\#, C++, Python, JavaScript |
-| **Frameworks** | Flutter, Avalonia, React, React Router, Vite.js, Node.js |
+| **Frameworks & Libraries** | Flutter, Avalonia, React, React Router, Vite.js, Node.js |
 | **Web** | HTML, CSS, Tailwind CSS, REST APIs |
 | **Databases** | SQL (PostgreSQL), NoSQL (MongoDB), Supabase, AppWrite |
 | **Embedded** | Raspberry Pi Pico, Raspberry Pi 4 |
