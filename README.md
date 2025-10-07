@@ -11,7 +11,7 @@ Here are some of the technologies and tools I worked with:
 | **Languages** | C\#, C++, Python, JavaScript |
 | **Frameworks & Libraries** | Flutter, Avalonia, Laravel, React, React Router, Vite.js, Node.js |
 | **Web** | HTML, CSS, Tailwind CSS, REST APIs |
-| **Databases** | SQL (PostgreSQL), NoSQL (MongoDB), Supabase, AppWrite |
+| **Databases** | SQL (PostgreSQL), NoSQL (MongoDB), BaaS (Supabase, AppWrite) |
 | **Embedded** | Raspberry Pi Pico, Raspberry Pi 4 |
 | **DevOps/Other** | Git, **GitHub Actions (CI/CD)**, Agile |
 
