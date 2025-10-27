@@ -1,6 +1,6 @@
 # Hi there, I'm Filip 👋
 
-I'm a **Software Engineering Student** currently in my final year at the University of Southern Denmark (SDU). I'm passionate about full-stack development, embedded systems, and using my technical skills to build intelligent, user-friendly solutions.
+I'm a **Software Engineering Student** currently in my final year at the University of Southern Denmark (SDU). I'm passionate about software development, embedded systems, and putting my technical skills to use.
 
 ## 🛠️ Tech Stack & Skills
 
@@ -19,8 +19,7 @@ Here are some of the technologies and tools I worked with:
 ---
 
 ## 🚀 Latest Projects
-
-I enjoy taking on challenging projects that apply both software and hardware knowledge. Here are my three latest highlights:
+Here are my three latest highlights:
 
 ### 1. AI Resume Analyzer - Web App
 * **Description:** Developed an **AI-powered web application** for resume analysis, providing structured and intelligent feedback.
