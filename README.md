@@ -1,10 +1,9 @@
 # Hi there, I'm Filip 👋
 
-I'm a **Software Engineering Student** currently in my final year at the University of Southern Denmark (SDU). I like software development, embedded systems and machine learning.
+I'm a **Software Engineering Student** currently in my first year of MSc in Engineering at the University of Southern Denmark (SDU).
 
 ## Current Work
-* **Student Programmer** at SDU Centre for Advanced Photovoltaics, where I focus on applied ML optimization, centered mainly around Bayesian optimization. Leveraging scientific/ML libraries such as scikit-optimize/learn, BoTorch/GPyTorch, Ax and many more. 
-* **Teacher's Assistant** at SDU for "Designing Software Systems with Embedded Elements", guiding students through embedded software development.
+* **Student Worker** at [The LEGO Group](https://www.lego.com/en-us/aboutus/lego-group?locale=en-us)
 
 ## 📧 Get in Touch
 More on my experiences here:
